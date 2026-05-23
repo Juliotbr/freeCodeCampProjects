@@ -1,0 +1,67 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Genre</th>
+        <th>Publication Year</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td>book that makes you smart</td>
+        <td>Gordons Freemans</td>
+        <td>Theo Phys</td>
+        <td>1998</td>
+      </tr>
+      <tr>
+        <td>A thing that happened</td>
+        <td>Anon</td>
+        <td>General</td>
+        <td>2007</td>
+      </tr>
+      <tr>
+        <td>Don't be a Flamingo</td>
+        <td>Sebastian F.</td>
+        <td>Self Care</td>
+        <td>1993</td>
+      </tr>
+      <tr>
+        <td>5 Signs you are a Force user</td>
+        <td>Obi Uan</td>
+        <td>Sci-fi</td>
+        <td>Undefined</td>
+      </tr>
+      <tr>
+        <td>How to polish a Magical Sword</td>
+        <td>Zeldan Mell</td>
+        <td>Magic</td>
+        <td>1988</td>
+      </tr>
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <td colspan="4">Total Books: 5</td>
+      </tr>
+    </tfoot>
+  </table>
+</body>
+
+</html>
+
+** end of index.html **
+

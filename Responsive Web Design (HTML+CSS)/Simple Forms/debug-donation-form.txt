@@ -1,0 +1,32 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Donation Form</title>
+</head>
+<body>
+  <h1>Donation Form</h1>
+  <form>
+    
+    <label for="name">Full Name:</label>
+    <input required id="name" type="text" name="name">
+
+    <label for="email">Email Address:</label>
+    <input required id="email" type="email" name="email">
+
+    <label for="dono">Donation Amount ($):</label>
+    <input required id="dono" type="number" name="amount">
+
+    <label for="subscr">
+    <input id="subscr" type="checkbox" name="newsletter">
+    Subscribe</label>
+
+    <input type="submit" value="Send">
+  </form>
+</body>
+</html>
+
+** end of index.html **
+
